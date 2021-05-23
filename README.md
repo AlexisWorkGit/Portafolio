@@ -46,12 +46,6 @@ Files Structure
 [Installation](#Installation)[Back to Top](#html)
 =================================================
 
-To install Gilber on your web server, download the files and unzip them
-to the local disk on your computer. Inside the extracted folder you will
-see `Gilber` folder. Using an FTP Client (such as Filezilla or Total
-Commander), upload all of the contents of the `Gilber` folder to your
-server.
-
 You must have JavaScript enabled in your browser. Also, a web server is
 required for the video background - testing it locally (unless using a
 development server such as Wamp or Mamp server) will not work.
@@ -66,7 +60,7 @@ development server such as Wamp or Mamp server) will not work.
 =========================================================
 
 To configure contact form you should change variables in file
-`Gilber/handler.php`
+`../handler.php`
 
 [Credits](#Credits)[Back to Top](#html)
 =======================================
