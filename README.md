@@ -13,7 +13,7 @@ designers, photographers, web agencies and studios, freelancers and so
 on. A template is based on Bootstrap 4 grid and will work perfectly on
 any screens and devices.
 
-Hope you will enjoy using it.
+Hope you will enjoy updating this template.
 
 Files Structure
 ---------------
